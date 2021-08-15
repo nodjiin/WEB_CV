@@ -1,0 +1,144 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Noto Serif JP', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Style Script', cursive;
+  font-size: 5.62rem;
+  color: #DF711B;
+}
+
+h2 {
+  font-family: 'Bree Serif', serif;
+  font-size: 2.3rem;
+  color: #DF711B;
+  padding-bottom: 20;
+}
+
+h3 {
+  font-family: 'Bree Serif', serif;
+  color: #FFB740;
+}
+
+a {
+  font-family: 'Bree Serif', serif;
+  color: #FDE49C;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+p {
+  font-weight: bold;
+  line-height: 200%;
+}
+
+hr {
+  margin: 50px auto;
+  border-style: none;
+  border-top: dotted 6px grey;
+  width: 10%;
+}
+
+.profile {
+  width: 50%;
+  margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.mainPage-subtitle {
+  margin-top: 0;
+  font-weight: normal;
+}
+
+.profile-img {
+  width: 100px;
+  height: 100px;
+  background-size: cover;
+  border-radius: 100%
+}
+
+.skill-img {
+  width: 20%;
+  float: left;
+  background-size: cover;
+  margin-right: 30px;
+}
+
+.top-container {
+  background-color: #64C9CF;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0 100px 0;
+}
+
+.bottom-container {
+  background-color: #64C9CF;
+  margin: 50px auto 0 auto;
+  padding: 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+}
+
+.footer-link {
+  margin: 30px;
+  font-weight: bold;
+}
+
+.footer-attribute {
+  margin-top: 20px;
+}
+
+.footer-author {
+  color: #EAF6F6;
+  margin-top: 30px;
+  font-size: 12px;
+}
+
+.btn {
+  margin: 60px auto 0 auto;
+  border-radius: 10px;
+  color: #EAF6F6;
+  font-family: 'Bree Serif', serif;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 21px;
+  background-color: #64C9CF;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background: #1E62D0;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.free-paragraph {
+  width:40rem;
+  margin:auto;
+}
